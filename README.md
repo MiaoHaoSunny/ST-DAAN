@@ -1,6 +1,32 @@
 # Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks(ST-DAAN)
 The necessary part of code for paper "[Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks](https://ieeexplore.ieee.org/document/9352560/)".  
 
+<p align="center">
+    <img src="Paper/framework.jpg", width="700">
+</p>
+
+## Requirements
+
+```
+Numpy
+scipy
+Python 3.6+
+Pytorch 1.0+
+Matplotlib(Optional)
+```
+
+## Citation
+Please cite the following paper if you use this repository in your reseach.
+```
+@article{wang2021spatio,
+  title={Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks},
+  author={Wang, Senzhang and Miao, Hao and Li, Jiyue and Cao, Jiannong},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2021},
+  publisher={IEEE}
+}
+```
+
 # Contact
 For any question, feel free to contact:
 ```
