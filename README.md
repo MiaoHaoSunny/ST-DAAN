@@ -2,7 +2,7 @@
 The necessary part of code for paper "[Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks](https://ieeexplore.ieee.org/document/9352560/)".  
 
 <p align="center">
-    <img src="Paper/framework.jpg", width="700">
+    <img src="STDAAN.jpg", width="700">
 </p>
 
 ## Requirements
