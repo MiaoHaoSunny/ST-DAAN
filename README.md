@@ -30,6 +30,6 @@ Please cite the following paper if you use this repository in your reseach.
 # Contact
 For any question, feel free to contact:
 ```
-Hao Miao: mh1912632044@gmail.com
+Hao Miao: haomiao96@gmail.com
 Senzhang Wang: szwang@csu.edu.cn
 ```
