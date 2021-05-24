@@ -12,7 +12,6 @@ Numpy
 scipy
 Python 3.6+
 Pytorch 1.0+
-Matplotlib(Optional)
 ```
 
 ## Citation
